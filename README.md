@@ -1,2 +1,3 @@
 # hello-world
-just a random repository
+
+This is just a test
